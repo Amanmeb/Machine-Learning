@@ -1,0 +1,11 @@
+# Dog Image Emotion Prediction
+
+## Description
+
+This project aims to predict the emotion (happy, sad, angry, relaxed) associated with dog images using machine learning techniques.
+It utilizes a CNN (Convolutional Neural Network) model for prediction.
+
+## Dataset
+
+The dataset used for this project can be found in the following Google Drive folder:
+[Dog Image Dataset](https://drive.google.com/drive/u/1/folders/1i5eOmGHSNRFrwWTYPEdGJCnnkesn2srl)
